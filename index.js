@@ -10477,7 +10477,7 @@ export default {
     percentageFormat: "パーセンテージ",
     numberDecrease: "小数点以下の桁数を減らす",
     numberIncrease: "小数点以下の桁数を増やす",
-    moreFormats: "その他の表示形式",
+    moreFormats: "表示形式",
     font: "フォント名",
     fontSize: "フォントサイズ",
     bold: "太字 (Ctrl+B)",
@@ -10572,9 +10572,9 @@ export default {
     tipNotMulti: "この操作は複数の選択範囲に対して実行できません。",
   },
   format: {
-    moreCurrency: "その他の通貨表示形式",
-    moreDateTime: "その他の日時表示形式",
-    moreNumber: "その他の数値表示形式",
+    moreCurrency: "通貨",
+    moreDateTime: "日時",
+    moreNumber: "数値",
 
     titleCurrency: "通貨表示形式",
     decimalPlaces: "小数点以下の桁数",
@@ -10859,7 +10859,7 @@ export default {
   sort: {
     asc: "昇順",
     desc: "降順",
-    custom: "ユーザー設定の並べ替え",
+    custom: "ユーザー設定",
 
     hasTitle: "先頭行を見出しとして使用",
     sortBy: "列",
@@ -11128,7 +11128,7 @@ export default {
     tipNameRepeat: "シートの名前は重複できません。",
     noMoreSheet: "少なくとも 1 つのシートが表示されている必要があります。シートを追加または再表示してから削除してください。",
     confirmDelete: "本当に削除しますか",
-    redoDelete: "この操作は Ctrl + Z で元に戻せます",
+    redoDelete: "この操作は Ctrl+Z で元に戻せます",
     noHide: "少なくとも 1 つのシートが表示されている必要があります。シートを追加または再表示してから非表示にしてください。",
     chartEditNoOpt: "この操作はグラフ編集モードでは実行できません。",
     sheetNameSpecCharError: "以下の文字はシート名に使用できません: [ ] :  ? * / ' \"",
@@ -11344,7 +11344,7 @@ export default {
     text_content: "テキストの内容",
     text_length: "テキストの長さ",
     date: "日時",
-    validity: "その他",
+    validity: "",
     placeholder1: "コンマ区切りの候補値（例: 1,2,3,4,5）",
     placeholder2: "",
     placeholder3: "",
