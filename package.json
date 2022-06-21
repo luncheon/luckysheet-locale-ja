@@ -1,0 +1,14 @@
+{
+  "name": "luckysheet-locale-ja",
+  "version": "0.0.0",
+  "description": "",
+  "license": "GPL",
+  "keywords": [
+    "luckysheet"
+  ],
+  "main": "index.min.js",
+  "prettier": {
+    "printWidth": 9999
+  },
+  "scripts": {}
+}
