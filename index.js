@@ -10596,7 +10596,7 @@ export default {
     wait: "waiting for update",
 
     add: "追加",
-    addLast: "行",
+    addLast: "末尾へ",
     backTop: "上へ戻る",
     pageInfo: "Total ${total}，${totalPage} page，current ${currentPage}",
     nextPage: "次のページ",
