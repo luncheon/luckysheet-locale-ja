@@ -10850,7 +10850,7 @@ export default {
     freezenRowRange: "選択行",
     freezenColumnRange: "選択列",
     freezenRCRange: "選択セル",
-    freezenCancel: "解除",
+    freezenCancel: "ウィンドウ枠の解除",
 
     noSeletionError: "セルが選択されていません。",
     rangeRCOverErrorTitle: "ウィンドウ枠の固定",
