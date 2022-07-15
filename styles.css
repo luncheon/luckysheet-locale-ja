@@ -33,15 +33,20 @@
   display: flex;
   align-items: center;
   gap: 8px;
+  line-height: 1.5;
+  padding: 0 !important;
 }
 .luckysheet-cols-menuitem-content > :last-child {
   flex: auto;
 }
 .luckysheet-cols-menuitem-content > .luckysheet-submenu-arrow {
   position: static;
+  padding: 0;
+  line-height: 1;
 }
 .luckysheet-cols-menuitem-content > .luckysheet-submenu-arrow > .luckysheet-icon {
   height: max-content;
+  margin: 0;
 }
 
 /* toolbar > borders menu > border size : adjust preview (underline) position */
