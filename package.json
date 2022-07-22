@@ -6,9 +6,13 @@
   "keywords": [
     "luckysheet"
   ],
+  "type": "module",
   "main": "index.min.js",
   "prettier": {
     "printWidth": 9999
   },
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "@swc/core": "^1.2.218"
+  }
 }

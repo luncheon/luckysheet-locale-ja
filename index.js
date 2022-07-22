@@ -10874,6 +10874,7 @@ export default {
 
     noRangeError: "この操作は複数の選択範囲に対して実行できません。",
     mergeError: "この操作は結合セルに対して実行できません。",
+    columnSortMergeError: "列の並べ替えは表全体に拡張されます。結合セルがある場合、この操作は実行できません。ツールバーのソート機能をご利用ください。"
   },
   filter: {
     filter: "フィルター",
