@@ -1,3 +1,14 @@
+.luckysheet,
+#luckysheet-functionbox,
+#luckysheet-helpbox,
+.luckysheet-modal-dialog-title-text span {
+  font-family: unset;
+}
+.luckysheet-freezebar-horizontal-drop-bar,
+.luckysheet-freezebar-vertical-drop-bar {
+  border-width: unset;
+}
+
 /* toolbar > more button : prevent overlapping with other buttons */
 #luckysheet-wa-editor {
   display: flex;
@@ -33,7 +44,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  line-height: 1.5;
+  line-height: 2;
   padding: 0 !important;
 }
 .luckysheet-cols-menuitem-content > :last-child {
