@@ -6,7 +6,7 @@
 }
 .luckysheet-freezebar-horizontal-drop-bar,
 .luckysheet-freezebar-vertical-drop-bar {
-  border-width: unset;
+  border-width: 0;
 }
 
 /* toolbar > more button : prevent overlapping with other buttons */
