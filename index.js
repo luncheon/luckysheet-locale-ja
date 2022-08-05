@@ -10436,7 +10436,7 @@ export default {
     },
     {
       n: "EVALUATE",
-      t: "3",
+      t: 15,
       d: "Evaluate a formula or expression expressed in words and return the result",
       a: "Evaluate according to literal formula or expression.",
       m: [1, 1],
@@ -11428,7 +11428,7 @@ export default {
     Engineering: "エンジニアリング",
     Filter: "",
     Financial: "財務",
-    luckysheet: "独自",
+    luckysheet: "スプライン",
     other: "その他",
     Logical: "論理",
     Lookup: "検索",
