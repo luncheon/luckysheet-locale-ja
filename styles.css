@@ -65,3 +65,8 @@
   left: 25px;
   right: auto !important;
 }
+
+/* hide unnamed formula categories */
+#formulaTypeSelect > option:empty {
+  display: none;
+}
