@@ -70,3 +70,14 @@
 #formulaTypeSelect > option:empty {
   display: none;
 }
+
+/* fix rotation of selected row count like "4行" */
+#luckysheet-row-count-show {
+  width: unset !important;
+  transform: rotate(90deg);
+  transform-origin: center top;
+}
+.luckysheet-row-count-show div {
+  writing-mode: unset;
+  display: inline;
+}
