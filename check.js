@@ -2,7 +2,7 @@ import { parse } from "@swc/core";
 import ja from "./index.js";
 
 const loadEnglishLocaleModule = async () => {
-  const response = await fetch("https://raw.githubusercontent.com/mengshukeji/Luckysheet/master/src/locale/en.js");
+  const response = await fetch("https://raw.githubusercontent.com/dream-num/Luckysheet/master/src/locale/en.js");
   const source = await response.text();
   return await parse(source);
 };
